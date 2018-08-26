@@ -1,0 +1,9 @@
+#bodyleft{ width: 100%;padding: 2%;background: white}
+#bodyleft h2{text-shadow: 5px 5px 5px grey; height: 40px;background: black;text-align:center;color: white;line-height: 40px;border-radius: 3px}
+#bodyleft image{width: 800px;height:800px;border-top: 3px }
+#bodyleft h3{ margin-top: 10px; text-shadow: 5px 5px 5px grey; padding-left: 1%; width: 100%; border-radius: 3px; line-height: 40px; background: black;color: white;text-align: center;height: 40px}
+#bodyleft ul{margin-top: 10px; list-style-type: none; padding: 1%}
+#bodyleft ul li{width: 32%;height: 150px;float: left;}
+#bodyleft ul li a image{margin-top: 10px; width: 100%; height: 230px; padding-right: 2%}
+#bodyleft ul li a{ font-size: 14px; text-decoration: none; color: black;text-align:center;}
+#bodyleft ul li a image:hover{ border-radius: 2px; transition: all 0.5s; background: white; border-top: 3px solid black;border-bottom: 3px solid black}
